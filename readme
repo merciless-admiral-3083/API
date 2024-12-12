@@ -1,0 +1,9 @@
+API: It stands for Application Programming Interface. It is a way for different
+    system and applications to communicate with each other. In this we call, put up a request and get a response
+    Request: The application (client) sends a request to the API, asking for data or performing an action.
+    Response: The API processes the request and responds with the requested data or a result.
+    Types of APIs
+Web APIs: Allow applications to interact over the internet, usually using HTTP (e.g., REST, SOAP).
+Library APIs: Enable programs to use functions from software libraries.
+Operating System APIs: Allow apps to interact with OS services (e.g., Windows API).
+Database APIs: Help apps retrieve or modify data stored in databases.
